@@ -1,0 +1,8 @@
+node_modules
+
+frontend
+
+.env
+
+tmp/uploads/*
+!tmp/uploads/.gitKeep
